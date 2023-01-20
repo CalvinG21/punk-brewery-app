@@ -1,10 +1,21 @@
-﻿# Getting Started with Create React App
+## Getting Started with Create React App
 
-this project uses react-bootstrap compents for the nav bar , and the card list(3x3 grid)
+This project was made using Punk API, React and SCSS.
 
-partially mobile friendly app(WIP)
+This application allows users to view beers available from database and filter by ABV on displayed beers
+
+React component hierarchy, passing down state and functions as props and javaScript ES6 are some of the concepts and features  covered in this project.
+
+This project uses react-bootstrap compents for the navbar and the card-list(3x3 grid) component.
+
+Mobile friendly app(WIP)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Instructions
+Click a filter checkbox to apply display beers with ABV >= 5.
+Click a next button to display next 9 beers from database.
+Click a prev button to display previous 9 beers from database.
 
 ## Available Scripts
 
