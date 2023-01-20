@@ -1,10 +1,11 @@
-## Getting Started with Create React App
-
+## Punk Brewery React App 
 This project was made using Punk API, React and SCSS.
 
 This application allows users to view beers available from database and filter by ABV on displayed beers
 
 React component hierarchy, passing down state and functions as props and javaScript ES6 are some of the concepts and features  covered in this project.
+
+App uses the Punk API to fetch data and display accordingly.
 
 This project uses react-bootstrap compents for the navbar and the card-list(3x3 grid) component.
 
@@ -13,9 +14,9 @@ Mobile friendly app(WIP)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Instructions
-Click a filter checkbox to apply display beers with ABV >= 5.
-Click a next button to display next 9 beers from database.
-Click a prev button to display previous 9 beers from database.
+Click a filter checkbox to view beers on display with ABV >= 5.
+Click a next button to display next 9 beers.
+Click a prev button to display previous 9 beers.
 
 ## Available Scripts
 
