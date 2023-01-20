@@ -15,7 +15,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Instructions
 Click a filter checkbox to view beers on display with ABV >= 5.
+
 Click a next button to display next 9 beers.
+
 Click a prev button to display previous 9 beers.
 
 ## Available Scripts
