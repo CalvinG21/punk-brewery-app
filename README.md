@@ -1,13 +1,13 @@
 ## Punk Brewery React App 
-This project was made using Punk API, React and SCSS.
+This application was made using Punk API, React and SCSS.
 
 This application allows users to view beers available from database and filter by ABV on displayed beers
 
 React component hierarchy, passing down state and functions as props and javaScript ES6 are some of the concepts and features  covered in this project.
 
-App uses the Punk API to fetch data and display accordingly.
+Application uses the Punk API to fetch data and display accordingly.
 
-This project uses react-bootstrap compents for the navbar and the card-list(3x3 grid) component.
+This application uses react-bootstrap components for the navbar and card-list(3 rows x 3 colms) component.
 
 Mobile friendly app(WIP)
 
